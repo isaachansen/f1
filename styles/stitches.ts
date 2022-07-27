@@ -60,7 +60,7 @@ export const fontSizes = {
 
 export const { styled, css, globalCss, keyframes, getCssText } = createStitches(
   {
-    prefix: 'sibi',
+    prefix: 'formula1',
     media: {
       tablet: '(min-width: 575px)',
       desktop: '(min-width: 990px)',

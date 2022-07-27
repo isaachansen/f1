@@ -9,6 +9,10 @@ export default function Document() {
           id="stitches"
           dangerouslySetInnerHTML={{ __html: getCssText() }}
         />
+        <link
+          href="https://fonts.googleapis.com/css?family=Raleway|Titillium+Web"
+          rel="stylesheet"
+        ></link>
       </Head>
 
       <body>
